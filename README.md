@@ -1,8 +1,26 @@
-# React + Vite
+# Challenge-13 ORM
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Purpose and Description
 
-Currently, two official plugins are available:
+The purpose of this application is to display my portfolio using React
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech stack
+
+* JavaScript was used to add functionality and logic
+* React was used for the fron end
+  
+
+
+## Design
+N/A
+
+
+
+
+
+
+
+
+
+## Link to finished website
+
