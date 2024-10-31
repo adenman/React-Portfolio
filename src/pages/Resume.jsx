@@ -3,7 +3,7 @@ return (
       <div>
         <section className="about" id="about">
           <div className="about-img">
-              <img src="/Resume.PNG" alt="" />
+              <img src="/adenresume.PNG" alt="" />
           </div>
           <div>
             
@@ -14,7 +14,7 @@ return (
               <p> 
               <div>
               <button className="btn" role="button">
-                <a download="Resume.PNG" href="/Resume.PNG" title="ImageName">
+                <a download="Aden-Resume.pdf" href="Aden-Resume.pdf" title="ImageName">
               Download
               </a>
               </button>
